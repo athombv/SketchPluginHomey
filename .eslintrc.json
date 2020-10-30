@@ -1,0 +1,10 @@
+{
+  "extends": "athom",
+  "parserOptions": {
+    "sourceType": "module"
+  },
+  "globals": {
+    "sketch": "readonly",
+    "fetch": "readonly"
+  }
+}

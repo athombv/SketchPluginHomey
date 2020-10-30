@@ -1,0 +1,17 @@
+{
+  "$schema": "https://raw.githubusercontent.com/sketch-hq/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Create App Icon",
+      "identifier": "homey.create-app-icon-identifier",
+      "script": "./create-app-icon.js"
+    }
+  ],
+  "menu": {
+    "title": "Homey",
+    "items": [
+      "homey.create-app-icon-identifier"
+    ]
+  }
+}
