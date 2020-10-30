@@ -25,5 +25,9 @@
     "eslint": "^7.12.1",
     "eslint-config-athom": "^2.1.0"
   },
-  "author": "Athom B.V. <emile@athom.nl>"
+  "author": "Athom B.V. <emile@athom.nl>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/athombv/SketchPluginHomey.git"
+  }
 }
