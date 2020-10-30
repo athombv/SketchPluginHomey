@@ -1,5 +1,7 @@
 # Homey for Sketch
 
+Insert Homey App icons directly into your Sketch projects.
+
 ![](./assets/card.png)
 
 ## Installation
